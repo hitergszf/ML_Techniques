@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8670cde-8dba-4372-86ad-3a367d7115f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/decision_tree.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1XvUxNGUdpiU9e5D8scBSWnIDwj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Python.random_forest (1)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="hw3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\DELL\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="decision_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decision_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_forest (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\DELL\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_forest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_forest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\DELL\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\programming\python\ML_NTU\机器学习技法\hw3\random_forest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.decision_tree" />
+      <item itemvalue="Python.random_forest" />
+      <item itemvalue="Python.random_forest (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.random_forest (1)" />
+        <item itemvalue="Python.decision_tree" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.random_forest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8670cde-8dba-4372-86ad-3a367d7115f5" name="Default Changelist" comment="" />
+      <created>1581926307848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581926307848</updated>
+      <workItem from="1581926311325" duration="22981000" />
+      <workItem from="1581950826011" duration="5125000" />
+      <workItem from="1581984325841" duration="10745000" />
+      <workItem from="1582011167475" duration="1382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="9" width="1089" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581953092227">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="96" y="9" width="1089" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1581953092227" />
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1581995378660">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1581995378660" />
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom" timestamp="1582022143562">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1582022143562" />
+    <state width="1237" height="173" key="GridCell.Tab.0.center" timestamp="1582022143562">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="173" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1582022143562" />
+    <state width="1237" height="173" key="GridCell.Tab.0.left" timestamp="1582022143561">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="173" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1582022143561" />
+    <state width="1237" height="173" key="GridCell.Tab.0.right" timestamp="1582022143562">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="173" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1582022143562" />
+    <state width="1237" height="317" key="GridCell.Tab.1.bottom" timestamp="1581995380003">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="317" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1581995380003" />
+    <state width="1237" height="317" key="GridCell.Tab.1.center" timestamp="1581995380003">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="317" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1581995380003" />
+    <state width="1237" height="317" key="GridCell.Tab.1.left" timestamp="1581995380003">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="317" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1581995380003" />
+    <state width="1237" height="317" key="GridCell.Tab.1.right" timestamp="1581995380003">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="317" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1581995380003" />
+    <state x="248" y="9" width="996" height="707" key="SettingsEditor" timestamp="1581954711043">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="248" y="9" width="996" height="707" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1581954711043" />
+    <state x="93" y="93" width="1095" height="535" key="dock-window-1" timestamp="1581986914061">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="93" y="93" width="1095" height="535" key="dock-window-1/0.0.1280.720@0.0.1280.720" timestamp="1581986914061" />
+    <state x="623" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1581952700749">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="623" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1581952700749" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hw3$random_forest__1_.coverage" NAME="random_forest (1) Coverage Results" MODIFIED="1582011927157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hw3$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1581947254922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hw3$decision_tree.coverage" NAME="decision_tree Coverage Results" MODIFIED="1582011854942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hw3$test.coverage" NAME="test Coverage Results" MODIFIED="1581989090069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
