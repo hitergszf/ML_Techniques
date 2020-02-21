@@ -1,8 +1,8 @@
 # ML_Techniques
-### The contentst are listed as follows:
+### Contents
 
 1. Notes for ML Techniques
-2. Implementations of the Coursera Note
+2. Implementations of the **Coursera** Note
 3. Related Resources
 
 
@@ -19,7 +19,9 @@ For any questions, please contact the following email:
 
 Because of the path problems, I could not publish **markdowns** to display the related images. Instead, I converted them into PDFs in GitHub​.:cry::crying_cat_face:
 
-- [The Home Pages of the Project][https://hitergszf.github.io/ML_Techniques/]
+- <a href="https://hitergszf.github.io/ML_Techniques/">The Home Pages of the Project</a>
 
-- [Download the notes][http://downgit.zhoudaxiaa.com/#/home?url=https://github.com/hitergszf/ML_Techniques/tree/master/notes]
+- <a href="http://downgit.zhoudaxiaa.com/#/home?url=https://github.com/hitergszf/ML_Techniques/tree/master/notes notes">Download the notes</a>
+
+
 
