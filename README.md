@@ -19,9 +19,9 @@ For any questions, please contact the following email:
 
 Because of the path problems, I could not publish **markdowns** to display the related images. Instead, I converted them into PDFs in GitHub​.:cry::crying_cat_face:
 
-- <a href="https://hitergszf.github.io/ML_Techniques/">The Home Pages of the Project</a>
-
-- <a href="http://downgit.zhoudaxiaa.com/#/home?url=https://github.com/hitergszf/ML_Techniques/tree/master/notes notes">Download the notes</a>
+<a href="http://downgit.zhoudaxiaa.com/#/home?url=https://github.com/hitergszf/ML_Techniques/tree/master/notes notes">Download the notes</a>
 
 
+
+### <a href="https://hitergszf.github.io/">Home</a>
 
