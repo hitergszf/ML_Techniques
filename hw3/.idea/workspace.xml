@@ -14,10 +14,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/decision_tree.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1XvUxNGUdpiU9e5D8scBSWnIDwj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -169,6 +173,7 @@
       <workItem from="1581950826011" duration="5125000" />
       <workItem from="1581984325841" duration="10745000" />
       <workItem from="1582011167475" duration="1382000" />
+      <workItem from="1582275401638" duration="9000" />
     </task>
     <servers />
   </component>
